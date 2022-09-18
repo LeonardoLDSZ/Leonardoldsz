@@ -1,4 +1,4 @@
-### Hello 👋, I'm Leonardo Davi de Souza
+### Hello 👋, I'm Leonardo Davi de Souza from Blumenau, Brazil
 
 - 🔭 I’m junior developer
 - 👯 I have job experience with java, spring boot, mysql, html, css, angular and react
@@ -6,7 +6,10 @@
 - 💬 I’m currently looking for a job opportunity
 
 
-##Contact
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/leonardo-davi-de-souza-b8655312a/)
+- [Instagram](https://www.instagram.com/leonardo.dsz/)
 
 
 
