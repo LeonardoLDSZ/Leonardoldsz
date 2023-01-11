@@ -2,7 +2,7 @@
 
 - 🔭 I’m junior developer
 - 👯 I have job experience with java, spring boot, mysql, html, css, angular and react
-- 🌱 I’m currently improving my skills with java and database through bootcamps and online courses 
+- 🌱 I’m currently improving my skills with java, javascript, angular, nodeJs and database through bootcamps and online courses 
 - 💬 I’m currently looking for a job opportunity
 
 
