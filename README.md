@@ -1,9 +1,8 @@
 ### Hello 👋, I'm Leonardo Davi de Souza from Blumenau, Brazil
 
-- 🔭 I’m junior developer
+- 🔭 I’m junior developer & Paralegal at environmental law firm
 - 👯 I have job experience with java, spring boot, mysql, html, css, angular and react
 - 🌱 I’m currently improving my skills with java, javascript, angular, nodeJs and database through bootcamps and online courses 
-- 💬 I’m currently looking for a job opportunity
 
 
 ## Contact
